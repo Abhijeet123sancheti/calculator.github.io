@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.button{
+  padding:20px;
+  border:3px solid brown;
+  border-radius:25px;
+  font-size:1rem;
+  cursor:pointer;
+  font-weight:550;
+}
+.row{
+  margin-inline:10px;
+margin-block:15px;
+}
+.row input{
+  margin-inline:0;
+  margin-block:0;
+  padding:10px 15px;
+  border-radius:10px;
+}
+.container{
+  height:490px;
+  width:300px;
+}
